@@ -1,0 +1,13 @@
+header {
+    height: 7vh;
+    background: #222
+}
+header .menu-btn {
+    display: inline-block;
+    color: #eee;
+    margin-top: 1.5vh;
+    margin-left: 1em;
+    cursor: pointer;
+    border: 1px solid #eee;
+    padding: 0.2em;
+}

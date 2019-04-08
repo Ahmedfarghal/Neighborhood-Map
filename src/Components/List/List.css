@@ -1,0 +1,46 @@
+aside {
+    width: 0;
+    height: 100vh;
+    background: #000;
+    text-align: center;
+    transition: all 300ms ease
+}
+aside h1 {
+    color: #eee;
+    font-size: 1.5em;
+}
+aside .form-input {
+    width: 85%;
+    margin: 0 auto 1em;
+    font-size: 1.2em;
+}
+aside label {
+    display: block;
+    text-align: left;
+    color: #eee;
+    margin-bottom: 0.2em
+}
+aside input {
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 1em;
+    box-sizing: border-box;
+}
+aside ul {
+    width: 85%;
+    margin: 0 auto;
+    list-style: none;
+    padding-left: 0;
+    height: 80vh;
+    overflow-y: scroll
+}
+aside ul li {
+    font-size: 1.2em;
+    background: #e7e7e7;
+    color: #444444;
+    margin-bottom: 0.2em;
+    padding: 0.2em;
+    cursor: pointer;
+}
+
+
