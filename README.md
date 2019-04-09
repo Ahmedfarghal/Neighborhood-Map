@@ -7,9 +7,9 @@ Neighborhood Map (React)
 
 # Setup Instructions
 
-  npm install
-  npm start A Live Preview will opens via http://localhost:3000/ by your default browser!
-  You can run the app directly and check it from <a href="https://ahmedfarghal.github.io/Neighborhood-Map/">here</a> 
+  <li>npm install</li>
+  <li>npm start A Live Preview will opens via http://localhost:3000/ by your default browser!</li>
+  <li>You can run the app directly and check it from <a href="https://ahmedfarghal.github.io/Neighborhood-Map/">here</a> </li>
   
   
 # Production Instructions
